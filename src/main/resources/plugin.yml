@@ -1,0 +1,8 @@
+name: QuestNPC
+version: '${project.version}'
+main: me.daydream.questnpc.QuestNPC
+api-version: 1.20
+depend: [ ProtocolLib ]
+commands:
+  questnpc:
+    description: Spawns AlphaDuplo the Quest NPC

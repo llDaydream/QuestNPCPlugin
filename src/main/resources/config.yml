@@ -1,0 +1,16 @@
+quests:
+  kill:
+    quest1:
+      name: Zombiekiller
+      description: kill a zombie!
+      reward: 100
+      target:
+        type: ZOMBIE
+        count: 1
+    quest2:
+      name: Hatefull Villagers
+      description: Kill 5 Villagers
+      reward: 500
+      target:
+        type: VILLAGER
+        count: 5
